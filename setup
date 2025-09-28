@@ -1,0 +1,2 @@
+echo "Hello from dev-containers" > /tmp/hello
+echo "set -o vi" >> ~/.bashrc
